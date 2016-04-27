@@ -1,0 +1,22 @@
+{
+   "branches": [
+      {
+         "Title": "JKE Mumbai Waterfront branch",
+         "Subtitle": "ATM, Tellers",
+         "Latitude": 18.922044,
+         "Longitude": 72.833052
+      },
+      {
+         "Title": "JKE Madame Cama branch",
+         "Subtitle": "ATM, Tellers",
+         "Latitude": 18.925309,
+         "Longitude": 72.831002
+      },
+      {
+         "Title": "JKE Indore branch",
+         "Subtitle": "ATM, Tellers",
+         "Latitude": 18.925972,
+         "Longitude": 72.824240
+      }          
+   ]
+}
