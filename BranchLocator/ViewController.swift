@@ -28,7 +28,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
         loadJsonFromFile()
         
         locationManager.delegate = self
-        locationManager.distanceFilter = 3000
+        locationManager.distanceFilter = 500
         locationManager.desiredAccuracy = kCLLocationAccuracyHundredMeters
         locationManager.requestWhenInUseAuthorization()
         
